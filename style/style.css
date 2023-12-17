@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header-wrapper {
+    padding: 15px 25px;
+    color: #fff;
+    background-color: #000;
+}
+
+.black-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.black-header__title {
+
+}
+
+.black-header__links {
+
+}
+
+.black-header__button {
+
+}
